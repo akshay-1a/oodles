@@ -19,6 +19,8 @@ export default function Home() {
             <ServicesGrid />
             {/* Our Products */}
             <Business/>
+            {/* stats */}
+            <StatsSection />
             {/* Footer */}
             <Footer />
         </div>
