@@ -12,7 +12,7 @@ const stats = [
 
 export function StatsSection() {
     return (
-        <section className="py-20 px-4 bg-gray-900 snap-start">
+        <section className="py-20 px-4 bg-gray-900 snap-center">
             <div className="max-w-6xl mx-auto">
                 <motion.h2
                     initial={{ opacity: 0, y: -20 }}
